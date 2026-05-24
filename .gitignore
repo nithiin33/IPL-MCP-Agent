@@ -1,0 +1,16 @@
+# Environment variables (contains API keys)
+.env
+
+# SQLite databases (regenerate with create_ipl_db.py)
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code settings
+.claude/
+
+# macOS
+.DS_Store
